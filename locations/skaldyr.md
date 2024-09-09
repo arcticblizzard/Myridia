@@ -2,7 +2,7 @@
 layout: location
 title: "Isle of Skaldyr"
 image: "/assets/images/skaldyr.png"
-permalink: /locations/isle-of-skaldyr/
+permalink: /locations/skaldyr/
 island: "Skaldyr"
 coordinates: "1450,1900"
 description: "A barren, frost-bitten land where the northern lights dance over vast frozen plains. The isle is home to nomadic tribes."
