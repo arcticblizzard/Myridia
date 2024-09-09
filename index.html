@@ -111,12 +111,14 @@
             .then(data => {
                 data.forEach(location => {
                     const coords = location.coordinates.split(',').map(Number);
+                    // Correct for the flipped Y-axis and adjust coordinates
+                    const adjustedCoords = [imageHeight - coords[1], coords[0]];
 
                     // Prepend /Myridia/ to the permalink for the correct path
                     const locationUrl = `/Myridia${location.permalink}`;
                     
                     // Create the marker and add the popup with the location link
-                    L.marker(coords).addTo(map)
+                    L.marker(adjustedCoords).addTo(map)
                         .bindPopup(`
                             <h3>${location.title}</h3>
                             <p><strong>Island:</strong> ${location.island}</p>
