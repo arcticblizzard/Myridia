@@ -1,0 +1,19 @@
+# Site settings
+title: Myridia Atlas
+description: >- # Optional multi-line description
+  An atlas of the world of Myridia: the Shattered Lands
+baseurl: "" # No need for baseurl on GitHub Pages
+url: "https://arcticblizzard.github.io/Myridia" # Your GitHub Pages URL
+
+# Build settings
+markdown: kramdown # GitHub Pages uses kramdown by default for Markdown processing
+theme: minima # A basic, built-in theme that works with GitHub Pages (optional)
+plugins:
+  - jekyll-feed # Optional: Adds an Atom feed for your site
+
+# Exclude certain files/folders from being processed
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - node_modules/
