@@ -3,16 +3,15 @@ layout: none
 ---
 
 [
-  {% for location in site.pages %}
-    {% if location.layout == "location" %}
-      {
-        "title": "{{ location.title }}",
-        "island": "{{ location.island }}",
-        "coordinates": "{{ location.coordinates }}",
-        "description": "{{ location.description }}",
-        "background": "{{ location.background }}",
-        "image": "{{ location.image }}"
-      }{% unless forloop.last %},{% endunless %}
-    {% endif %}
+  {% assign location_pages = site.pages | where: "layout", "location" %}
+  {% for location in location_pages %}
+  {
+    "title": "{{ location.title | escape }}",
+    "island": "{{ location.island | escape }}",
+    "coordinates": "{{ location.coordinates | escape }}",
+    "description": "{{ location.description | escape }}",
+    "background": "{{ location.background | escape }}",
+    "image": "{{ location.image | escape }}"
+  }{% if forloop.last == false %},{% endif %}
   {% endfor %}
 ]
