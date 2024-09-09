@@ -80,15 +80,24 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
 
     <script>
+        // Define the image size (width, height)
+        var imageWidth = 13600;   // Example image width in pixels
+        var imageHeight = 8800;   // Example image height in pixels
+
+        // Create a custom CRS with top-left as (0, 0)
+        var topLeftCRS = L.extend({}, L.CRS.Simple, {
+            transformation: new L.Transformation(1, 0, -1, imageHeight)
+        });
+
         // Initialize the map
         var map = L.map('map', {
-            crs: L.CRS.Simple,  // Use Simple CRS for a flat, image-based map
+            crs: topLeftCRS,
             minZoom: -5         // Allow zooming out for larger images
         }).setView([0, 0], 0);
 
         // Define the bounds of the image (adjust according to the image dimensions)
         var imageUrl = 'https://raw.githubusercontent.com/arcticblizzard/Myridia/main/assets/Myridia_v2_web.png';  // Path to your uploaded image
-        var imageBounds = [[0, 0], [8800, 13600]];   // Set the bounds (use pixel dimensions)
+        var imageBounds = [[0, 0], [imageHeight, imageWidth]];
 
         // Add the image overlay to the map
         L.imageOverlay(imageUrl, imageBounds).addTo(map);
