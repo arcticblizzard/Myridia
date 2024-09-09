@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaflet Custom Image Map with Parchment Styling</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'IM Fell English SC', serif;
+            background-color: #f4f1e1;
+            background-image: url('https://www.transparenttextures.com/patterns/aged-paper.png'); /* Worn parchment background */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .parchment-container {
+            max-width: 1000px;
+            margin: 50px auto;
+            padding: 30px;
+            background: rgba(255, 255, 255, 0.9);
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+            border: 2px solid #d2b48c;
+            border-radius: 10px;
+        }
+
+        h1, h2 {
+            text-align: center;
+            color: #4b3832;
+            text-shadow: 1px 1px 1px #d2b48c;
+        }
+
+        p {
+            color: #3e2723;
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+
+        /* Calligraphy style */
+        .calligraphy {
+            font-family: 'Dancing Script', cursive;
+            font-size: 1.5em;
+            text-align: center;
+            color: #4b3832;
+            text-shadow: 1px 1px 2px #d2b48c;
+        }
+
+        #map {
+            height: 800px;
+            width: 100%;
+            border: 2px solid #d2b48c;
+            box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+        }
+
+        a {
+            color: #7f5539;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="parchment-container">
+        <h1>Interactive Map of Myridia</h1>
+        <p class="calligraphy">Myridia is an ancient world forever scarred by a cataclysmic event known as 'The Calamity'. Ages ago, the once-great continents were violently torn asunder, their lands shattered into countless islands. At the heart of this devastation lies the remains of a once-towering volcano, now sunken beneath the ocean's depths, leaving behind a massive, swirling whirlpool. This vortex, which takes its name from the event that spawned it, serves as a constant reminder of the world's fractured past. Despite the cataclysm, Myridia is populated by diverse peoples, each adapting to the archipelago of scattered islands in their own unique ways, from seafaring explorers to those who dwell in the ruins of ancient civilizations. Adventure, intrigue, and danger await on every shore as factions vie for control over the remnants of a once-unified world.</p>
+        
+        <div id="map"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+    <script>
+        // Initialize the map
+        var map = L.map('map', {
+            crs: L.CRS.Simple,  // Use Simple CRS for a flat, image-based map
+            minZoom: -5         // Allow zooming out for larger images
+        }).setView([0, 0], 0);
+
+        // Define the bounds of the image (adjust according to the image dimensions)
+        var imageUrl = 'https://raw.githubusercontent.com/arcticblizzard/mapTest/main/Myridia_v2_web.png';  // Path to your uploaded image
+        var imageBounds = [[0, 0], [8800, 13600]];   // Set the bounds (use pixel dimensions)
+
+        // Add the image overlay to the map
+        L.imageOverlay(imageUrl, imageBounds).addTo(map);
+
+        // Fit the map to the image bounds
+        map.fitBounds(imageBounds);
+
+        // Load CSV file using PapaParse
+        Papa.parse('https://raw.githubusercontent.com/arcticblizzard/mapTest/main/Locations/locations.csv', {
+            download: true,
+            header: true,
+            complete: function(results) {
+                results.data.forEach(function(row) {
+                    // For each row in the CSV, create a marker
+                    var lat = parseFloat(row.lat);
+                    var lng = parseFloat(row.lng);
+                    var title = row.title;
+                    var link = row.link;
+
+                    // Add marker to the map
+                    L.marker([lat, lng]).addTo(map)
+                        .bindPopup('<a href="' + link + '" target="_blank">' + title + '</a>');
+                });
+            }
+        });
+    </script>
+</body>
+</html>
