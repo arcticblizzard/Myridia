@@ -7,6 +7,8 @@ url: "https://arcticblizzard.github.io/Myridia" # Your GitHub Pages URL
 
 # Build settings
 markdown: kramdown # GitHub Pages uses kramdown by default for Markdown processing
+kramdown:
+  input: GFM
 theme: minima # A basic, built-in theme that works with GitHub Pages (optional)
 plugins:
   - jekyll-feed # Optional: Adds an Atom feed for your site
