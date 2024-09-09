@@ -1,0 +1,18 @@
+---
+layout: none
+---
+
+[
+  {% for location in site.pages %}
+    {% if location.layout == "location" %}
+      {
+        "title": "{{ location.title }}",
+        "island": "{{ location.island }}",
+        "coordinates": "{{ location.coordinates }}",
+        "description": "{{ location.description }}",
+        "background": "{{ location.background }}",
+        "image": "{{ location.image }}"
+      }{% if forloop.last == false %},{% endif %}
+    {% endif %}
+  {% endfor %}
+]
