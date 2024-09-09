@@ -109,7 +109,7 @@
                     const coords = location.coordinates.split(',').map(Number);
                     
                     // Define locationUrl based on the location title or a specific field in your JSON
-                    const locationUrl = `/locations/${location.title.replace(/\s+/g, '-').toLowerCase()}/`; 
+                    //const locationUrl = `/locations/${location.title.replace(/\s+/g, '-').toLowerCase()}/`; 
                     
                     // Create the marker and add the popup with the location link
                     L.marker(coords).addTo(map)
@@ -117,7 +117,7 @@
                             <h3>${location.title}</h3>
                             <p><strong>Island:</strong> ${location.island}</p>
                             <p>${location.description}</p>
-                            <a href="${locationUrl}" target="_blank">More Info</a>
+                            <a href="${location.permalink}" target="_blank">More Info</a>
                         `);
                 });
             })

@@ -11,7 +11,8 @@ layout: none
     "coordinates": "{{ location.coordinates | escape }}",
     "description": "{{ location.description | escape }}",
     "background": "{{ location.background | escape }}",
-    "image": "{{ location.image | escape }}"
+    "image": "{{ location.image | escape }}",
+    "permalink": "{{ location.url | escape }}"
   }{% if forloop.last == false %},{% endif %}
   {% endfor %}
 ]
