@@ -12,7 +12,7 @@ layout: none
         "description": "{{ location.description }}",
         "background": "{{ location.background }}",
         "image": "{{ location.image }}"
-      }{% if forloop.last == false %},{% endif %}  <!-- No comma for the last element -->
+      }{% unless forloop.last %},{% endunless %}
     {% endif %}
   {% endfor %}
 ]
