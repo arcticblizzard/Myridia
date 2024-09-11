@@ -1,7 +1,7 @@
 ---
 layout: location
 title: "Wyndholm"
-image: "/assets/images/wyndholm.png"
+image: "{{ site.baseurl }}/assets/images/wyndholm.png"
 permalink: /locations/city-of-wyndholm/
 region: "Irathgar"
 type: "City"
@@ -21,6 +21,7 @@ description: "Wyndholm is a coastal city perched on rugged cliffs, its sturdy st
 - **Nearby Landmarks**: [Important locations or proximity to places like the Maelstrom]
 
 ### Notable Landmarks
+
 | **Landmark**    | **Description**                            |
 |-----------------|--------------------------------------------|
 | x | x         |
