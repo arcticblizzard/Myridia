@@ -3,15 +3,12 @@ layout: location
 title: "Wyndholm"
 image: "/assets/images/wyndholm.png"
 permalink: /locations/city-of-wyndholm/
-island: "Irathgar"
+region: "Irathgar"
+type: "City"
 coordinates: "4726,2062"
 description: "Wyndholm is a coastal city perched on rugged cliffs, its sturdy stone walls overlooking the oft treacherous waters below, where trade ships cautiously sail into its well-guarded harbor."
 background: "Once a stronghold against raiders, Wyndholm has grown into a prosperous hub for maritime trade, though it still bears the scars of its tumultuous past, with its towering fortress serving as a reminder of the city's long-held strategic importance."
 ---
-
-# Wyndholm
-
-Location Picture
 
 | **Type**          | **Population**      | **Economy**           | **Climate**          |
 |-------------------|---------------------|-----------------------|----------------------|
