@@ -7,7 +7,6 @@ region: "Irathgar"
 type: "City"
 coordinates: "4726,2062"
 description: "Wyndholm is a coastal city perched on rugged cliffs, its sturdy stone walls overlooking the oft treacherous waters below, where trade ships cautiously sail into its well-guarded harbor."
-background: "Once a stronghold against raiders, Wyndholm has grown into a prosperous hub for maritime trade, though it still bears the scars of its tumultuous past, with its towering fortress serving as a reminder of the city's long-held strategic importance."
 ---
 
 | **Type**          | **Population**      | **Economy**           | **Climate**          |
@@ -17,6 +16,7 @@ background: "Once a stronghold against raiders, Wyndholm has grown into a prospe
 ---
 
 ### Geography
+
 - **Features**: [Brief description of terrain: mountains, forests, deserts, etc.]
 - **Nearby Landmarks**: [Important locations or proximity to places like the Maelstrom]
 
@@ -27,12 +27,14 @@ background: "Once a stronghold against raiders, Wyndholm has grown into a prospe
 | x | x         |
 
 ### Leadership/Factions
+
 | **Faction/Leader** | **Role**              | **Description**                    |
 |--------------------|-----------------------|------------------------------------|
 | x   | x     | x   |
 | x   | x     | x   |
 
 ### History
+- **Background**: Once a stronghold against raiders, Wyndholm has grown into a prosperous hub for maritime trade, though it still bears the scars of its tumultuous past, with its towering fortress serving as a reminder of the city's long-held strategic importance.
 - **Important Events**: [1-2 sentence summary of historical significance or key events]
 
 ### Conflicts
@@ -40,6 +42,7 @@ background: "Once a stronghold against raiders, Wyndholm has grown into a prospe
 - **Rivalries/Enemies**: [Factions or individuals in conflict]
 
 ### NPCs
+
 | **Name**       | **Role**             | **Description**                      |
 |----------------|----------------------|--------------------------------------|
 | x     | x          | x   |
