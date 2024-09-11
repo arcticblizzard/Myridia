@@ -27,6 +27,8 @@ description: "Wyndholm is a coastal city perched on rugged cliffs, its sturdy st
 | x | x         |
 | x | x         |
 
+---
+
 ### Leadership/Factions
 
 | **Faction/Leader** | **Role**              | **Description**                    |
@@ -42,6 +44,12 @@ description: "Wyndholm is a coastal city perched on rugged cliffs, its sturdy st
 - **Ongoing Conflicts**: [Brief description of any current tensions or disputes]
 - **Rivalries/Enemies**: [Factions or individuals in conflict]
 
+### Culture and Traditions
+- **Customs/Beliefs**: [Short description of local traditions, festivals, or religion]
+- **Unique Practices**: [Any particular practices or rituals unique to this location]
+
+---
+
 ### NPCs
 
 | **Name**       | **Role**             | **Description**                      |
@@ -49,8 +57,5 @@ description: "Wyndholm is a coastal city perched on rugged cliffs, its sturdy st
 | x     | x          | x   |
 | x     | x          | x   |
 
----
 
-### Culture and Traditions
-- **Customs/Beliefs**: [Short description of local traditions, festivals, or religion]
-- **Unique Practices**: [Any particular practices or rituals unique to this location]
+
