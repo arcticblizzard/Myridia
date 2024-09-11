@@ -23,14 +23,14 @@ background: "Once a stronghold against raiders, Wyndholm has grown into a prospe
 ### Notable Landmarks
 | **Landmark**    | **Description**                            |
 |-----------------|--------------------------------------------|
-| [Landmark Name] | [Brief description of the landmark]         |
-| [Landmark Name] | [Brief description of the landmark]         |
+| x | x         |
+| x | x         |
 
 ### Leadership/Factions
 | **Faction/Leader** | **Role**              | **Description**                    |
 |--------------------|-----------------------|------------------------------------|
-| [Leader/Faction]   | [Ruler/Group Name]     | [Brief description or influence]   |
-| [Leader/Faction]   | [Ruler/Group Name]     | [Brief description or influence]   |
+| x   | x     | x   |
+| x   | x     | x   |
 
 ### History
 - **Important Events**: [1-2 sentence summary of historical significance or key events]
@@ -42,8 +42,8 @@ background: "Once a stronghold against raiders, Wyndholm has grown into a prospe
 ### NPCs
 | **Name**       | **Role**             | **Description**                      |
 |----------------|----------------------|--------------------------------------|
-| [NPC Name]     | [Role/Title]          | [Brief description or personality]   |
-| [NPC Name]     | [Role/Title]          | [Brief description or personality]   |
+| x     | x          | x   |
+| x     | x          | x   |
 
 ---
 

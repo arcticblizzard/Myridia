@@ -121,6 +121,7 @@
                     L.marker(adjustedCoords).addTo(map)
                         .bindPopup(`
                             <h3>${location.title}</h3>
+                            <p><strong>Type:</strong> ${location.type}</p>
                             <p><strong>Region:</strong> ${location.region}</p>
                             <p>${location.description}</p>
                             <a href="${locationUrl}" target="_blank">More Info</a>
