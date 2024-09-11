@@ -1,5 +1,5 @@
 # Site settings
-title: Myridia Atlas
+title: "Myridia Atlas"
 description: >- # Optional multi-line description
   An atlas of the world of Myridia: the Shattered Lands
 baseurl: "/Myridia" # No need for baseurl on GitHub Pages
