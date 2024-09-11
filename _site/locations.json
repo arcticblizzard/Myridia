@@ -1,0 +1,24 @@
+[
+  
+  
+  {
+    "title": "Isle of Skaldyr",
+    "island": "Skaldyr",
+    "coordinates": "1450,1900",
+    "description": "A barren, frost-bitten land where the northern lights dance over vast frozen plains. The isle is home to nomadic tribes.",
+    "background": "Once a vibrant island, Skaldyr was ravaged by The Calamity. The nomads now survive by fishing in the icy waters and trading with nearby islands.",
+    "image": "/assets/images/skaldyr.png",
+    "permalink": "/locations/skaldyr/"
+  },
+  
+  {
+    "title": "Wyndholm",
+    "island": "Irathgar",
+    "coordinates": "4726,2062",
+    "description": "Wyndholm is a coastal city perched on rugged cliffs, its sturdy stone walls overlooking the oft treacherous waters below, where trade ships cautiously sail into its well-guarded harbor.",
+    "background": "Once a stronghold against raiders, Wyndholm has grown into a prosperous hub for maritime trade, though it still bears the scars of its tumultuous past, with its towering fortress serving as a reminder of the city&#39;s long-held strategic importance.",
+    "image": "/assets/images/wyndholm.png",
+    "permalink": "/locations/city-of-wyndholm/"
+  }
+  
+]
