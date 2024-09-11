@@ -7,7 +7,8 @@ layout: none
   {% for location in location_pages %}
   {
     "title": "{{ location.title | escape }}",
-    "island": "{{ location.island | escape }}",
+    "region": "{{ location.region | escape }}",
+    "type": "{{ location.type | escape }}",
     "coordinates": "{{ location.coordinates | escape }}",
     "description": "{{ location.description | escape }}",
     "background": "{{ location.background | escape }}",
