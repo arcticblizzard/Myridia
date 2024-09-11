@@ -10,7 +10,7 @@
 <body>
     <div class="location-page">
         <h1>{{ page.title }}</h1>
-        <img src="{{ page.image }}" alt="Image of {{ page.title }}" class="location-image" />
+        <img src="{{ site.baseurl }}{{ page.image }}" alt="Image of {{ page.title }}" class="location-image" />
 
         <div class="location-data">
             <p><strong>Region:</strong> {{ page.region }}</p>

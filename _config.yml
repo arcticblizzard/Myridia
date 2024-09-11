@@ -2,7 +2,7 @@
 title: Myridia Atlas
 description: >- # Optional multi-line description
   An atlas of the world of Myridia: the Shattered Lands
-baseurl: "" # No need for baseurl on GitHub Pages
+baseurl: "/Myridia" # No need for baseurl on GitHub Pages
 url: "https://arcticblizzard.github.io/Myridia" # Your GitHub Pages URL
 
 # Build settings
