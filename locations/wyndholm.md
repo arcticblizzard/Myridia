@@ -1,7 +1,7 @@
 ---
 layout: location
 title: "Wyndholm"
-image: "/assets/images/wyndholm.png"
+image: "/assets/images/wyndholm.jpg"
 permalink: /locations/city-of-wyndholm/
 region: "Irathgar"
 type: "City"
