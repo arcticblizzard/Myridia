@@ -4,8 +4,8 @@ title: "Moonshadow"
 image: "/assets/images/moonshadow.jpg"
 permalink: /locations/city-of-moonshadow/
 region: "Ashakara"
-type: "Desert City"
-coordinates: {}
+type: "City"
+coordinates: "6154,3972"
 description: "A mysterious city hidden beneath the desert, only visible when the moonlight strikes its entrance."
 ---
 
@@ -19,7 +19,7 @@ description: "A mysterious city hidden beneath the desert, only visible when the
 
 | Type        | Population | Economy             | Climate                                  |
 |-------------|------------|---------------------|------------------------------------------|
-| Desert City | Medium      | Artifacts, Trade    | Cool nights, mild under the desert        |
+| City | Medium      | Artifacts, Trade    | Cool nights, mild under the desert        |
 
 ---
 

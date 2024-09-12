@@ -1,11 +1,10 @@
 ---
 layout: location
 title: "Twilight Oasis"
-image: "/assets/images/twilight_oasis.jpg"
 permalink: /locations/city-of-twilight-oasis/
 region: "Ashakara"
-type: "Oasis Town"
-coordinates: {}
+type: "City"
+coordinates: "8536,4642"
 description: "A small, serene oasis town where the water glows faintly in the light of dusk."
 ---
 
@@ -19,7 +18,7 @@ description: "A small, serene oasis town where the water glows faintly in the li
 
 | Type        | Population | Economy              | Climate                                  |
 |-------------|------------|----------------------|------------------------------------------|
-| Oasis Town  | Small      | Agriculture, Fishing  | Warm, mild temperatures year-round      |
+| City  | Small      | Agriculture, Fishing  | Warm, mild temperatures year-round      |
 
 ---
 

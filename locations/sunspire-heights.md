@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Sunspire Heights"
-image: "/assets/images/sunspire_heights.jpg"
+image: "/assets/images/sunspire-heights.jpg"
 permalink: /locations/city-of-sunspire-heights/
 region: "Ashakara"
 type: "Mountain City"
-coordinates: {}
+coordinates: "7672,5670"
 description: "A mountain city built around towering spires that reach for the heavens, glowing in the desert sun."
 ---
 

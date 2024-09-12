@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Shifting Sands"
-image: "/assets/images/shifting_sands.jpg"
+image: "/assets/images/shifting-sands.jpg"
 permalink: /locations/city-of-shifting-sands/
 region: "Ashakara"
-type: "Nomadic Settlement"
-coordinates: {}
+type: "City"
+coordinates: "6992,3766"
 description: "A nomadic city that moves with the desert winds, never staying in one place for long."
 ---
 
@@ -19,7 +19,7 @@ description: "A nomadic city that moves with the desert winds, never staying in 
 
 | Type           | Population | Economy         | Climate                                  |
 |----------------|------------|-----------------|------------------------------------------|
-| Nomadic City   | Small       | Trade, Livestock| Harsh, with frequent sandstorms           |
+| City   | Small       | Trade, Livestock| Harsh, with frequent sandstorms           |
 
 ---
 

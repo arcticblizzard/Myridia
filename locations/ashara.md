@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Crystal Sands of Ashara"
-image: "/assets/images/crystal_sands_ashara.jpg"
-permalink: /locations/city-of-crystal-sands/
+image: "/assets/images/ashara.jpg"
+permalink: /locations/city-of-ashara/
 region: "Ashakara"
-type: "Oasis City"
-coordinates: {}
+type: "City"
+coordinates: "73,06,4066"
 description: "A desert oasis city known for its crystalline sands and ancient knowledge hidden within."
 ---
 
@@ -19,7 +19,7 @@ The city of **Crystal Sands of Ashara** lies at the heart of the desert, built a
 
 | Type         | Population | Economy                   | Climate                                  |
 |--------------|------------|---------------------------|------------------------------------------|
-| Oasis City   | Medium      | Crystal trade, Knowledge   | Arid, hot days, cold nights              |
+| City   | Medium      | Crystal trade, Knowledge   | Arid, hot days, cold nights              |
 
 ---
 

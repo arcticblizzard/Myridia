@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Sunveil Pass"
-image: "/assets/images/sunveil_pass.jpg"
+image: "/assets/images/sunveil-pass.jpg"
 permalink: /locations/city-of-sunveil-pass/
 region: "Ashakara"
-type: "Mountain Town"
-coordinates: {}
+type: "City"
+coordinates: "6186,3612"
 description: "A bustling trade town nestled between mountain passes, basked in the golden glow of the surrounding cliffs."
 ---
 
@@ -19,7 +19,7 @@ description: "A bustling trade town nestled between mountain passes, basked in t
 
 | Type           | Population | Economy         | Climate                                  |
 |----------------|------------|-----------------|------------------------------------------|
-| Mountain Town  | Large       | Trade, Agriculture| Warm days, cool nights, moderate rains    |
+| City  | Large       | Trade, Agriculture| Warm days, cool nights, moderate rains    |
 
 ---
 

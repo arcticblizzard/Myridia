@@ -4,14 +4,14 @@ title: "The Crystal Domes of Zhalrasha"
 image: "/assets/images/zhalrasha.jpg"
 permalink: /locations/city-of-zhalrasha/
 region: "Ashakara"
-type: "Desert City"
-coordinates: {}
+type: "City"
+coordinates: "7570,4500"
 description: "A mystical desert city known for its crystal domes and ancient magic, surrounded by dangers."
 ---
 
 ## Geography
 
-Zhalrasha is a mystical city located in the heart of the Ashakaran desert, known for its dazzling crystal-domed temples. Beneath the opulent structures lies a sprawling collection of humble dwellings carved from the earth, where artisans and merchants reside. The city's crystal birds, remnants of ancient enchantment, perpetually circle the skies, said to bring fortune to those they pass.
+Zhalrasha is a mystical city located at the mouth of Crystaline Bay, known for its dazzling crystal-domed temples. Beneath the opulent structures lies a sprawling collection of humble dwellings carved from the earth, where artisans and merchants reside. The city's crystal birds, remnants of ancient enchantment, perpetually circle the skies, said to bring fortune to those they pass.
 
 ---
 
@@ -19,7 +19,7 @@ Zhalrasha is a mystical city located in the heart of the Ashakaran desert, known
 
 | Type         | Population | Economy                             | Climate                              |
 |--------------|------------|-------------------------------------|--------------------------------------|
-| Desert City  | Medium      | Incense, Crystals, Artifacts        | Harsh desert climate with sandstorms |
+| City  | Large      | Incense, Crystals, Artifacts        | Harsh desert climate with sandstorms |
 
 ---
 

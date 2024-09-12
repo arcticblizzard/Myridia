@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Golden Pillars of Vekara"
-image: "/assets/images/golden_pillars_vekara.jpg"
-permalink: /locations/city-of-golden-pillars/
+image: "/assets/images/vekara.jpg"
+permalink: /locations/city-of-vekara/
 region: "Ashakara"
-type: "Desert City"
-coordinates: {}
+type: "City"
+coordinates: "7068,4328"
 description: "An ancient desert city built around massive golden pillars that glow in the setting sun."
 ---
 
@@ -19,7 +19,7 @@ The **Golden Pillars of Vekara** are a breathtaking sight in the Ashakara desert
 
 | Type         | Population | Economy                   | Climate                                  |
 |--------------|------------|---------------------------|------------------------------------------|
-| Desert City  | Large       | Gold mining, Trade         | Hot, dry, with extreme temperature shifts |
+| City  | Large       | Gold mining, Trade         | Hot, dry, with extreme temperature shifts |
 
 ---
 

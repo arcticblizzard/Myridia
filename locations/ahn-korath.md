@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Fortress of Ahn-Koroth"
-image: "/assets/images/fortress_of_ahn_koroth.jpg"
-permalink: /locations/city-of-fortress-of-ahn-koroth/
+image: "/assets/images/ahn-koroth.jpg"
+permalink: /locations/fortress-of-ahn-koroth/
 region: "Ashakara"
-type: "Mountain Fortress"
-coordinates: {}
+type: "city"
+coordinates: "6502,3858"
 description: "A mighty fortress built into the rugged mountains, serving as a bastion against desert invaders."
 ---
 
@@ -19,7 +19,7 @@ description: "A mighty fortress built into the rugged mountains, serving as a ba
 
 | Type              | Population | Economy             | Climate                                  |
 |-------------------|------------|---------------------|------------------------------------------|
-| Mountain Fortress | Medium      | Military, Metalworks| Hot days, cool nights, frequent dust storms |
+| City | Medium      | Military, Metalworks| Hot days, cool nights, frequent dust storms |
 
 ---
 

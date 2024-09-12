@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Whispering Dunes"
-image: "/assets/images/whispering_dunes.jpg"
+image: "/assets/images/whispering-dunes.jpg"
 permalink: /locations/city-of-whispering-dunes/
 region: "Ashakara"
-type: "Desert Outpost"
-coordinates: {}
+type: "City"
+coordinates: "7150,3828"
 description: "A quiet outpost deep in the desert, surrounded by dunes that are said to whisper ancient secrets."
 ---
 
@@ -19,7 +19,7 @@ description: "A quiet outpost deep in the desert, surrounded by dunes that are s
 
 | Type          | Population | Economy              | Climate                                  |
 |---------------|------------|----------------------|------------------------------------------|
-| Desert Outpost| Small      | Trading Post, Nomadic Trade | Harsh, with frequent sandstorms          |
+| City | Small      | Trading Post, Nomadic Trade | Harsh, with frequent sandstorms          |
 
 ---
 
