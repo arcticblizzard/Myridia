@@ -5,7 +5,7 @@ image: "/assets/images/ashara.jpg"
 permalink: /locations/city-of-ashara/
 region: "Ashakara"
 type: "City"
-coordinates: "73,06,4066"
+coordinates: "7306,4066"
 description: "A desert oasis city known for its crystalline sands and ancient knowledge hidden within."
 ---
 
