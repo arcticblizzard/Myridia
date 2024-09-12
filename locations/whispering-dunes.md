@@ -5,7 +5,7 @@ image: "/assets/images/whispering-dunes.jpg"
 permalink: /locations/city-of-whispering-dunes/
 region: "Ashakara"
 type: "City"
-coordinates: "7150,3828"
+coordinates: "7896,3994"
 description: "A quiet outpost deep in the desert, surrounded by dunes that are said to whisper ancient secrets."
 ---
 
