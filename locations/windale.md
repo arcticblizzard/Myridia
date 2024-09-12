@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Windale"
-image: "file-XfI0vvdg0PIvClhFQVrCZDQb"
+image: "/assets/images/windale.jpg"
 permalink: /locations/windale/
 region: "Caelvorn"
-type: "Town"
-coordinates: {latitude: 55.7, longitude: -3.5}
+type: "City"
+coordinates: "6972,2752"
 description: "Windale is a bustling market town known for its picturesque half-timbered houses, winding streets, and lively marketplaces. The town sits at the crossroads of important trade routes, making it a vital center of commerce in Caelvorn."
 ---
 
@@ -19,7 +19,7 @@ Windale is nestled between rolling hills and dense woodlands, giving it a peacef
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Town         | Small    | Trade, Agriculture, Craftsmanship, Brewing | Temperate, with mild winters and warm summers |
+| City         | Small    | Trade, Agriculture, Craftsmanship, Brewing | Temperate, with mild winters and warm summers |
 
 ---
 
