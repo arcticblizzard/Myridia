@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Vrakheth"
-image: "file-RjKB6q78w1hBMHYH1is1ss67"
+image: "/assets/images/vrakheth.jpg"
 permalink: /locations/vrakheth/
 region: "Nemedis"
-type: "Harbor Town"
-coordinates: {}
+type: "Town"
+coordinates: "6860,7416"
 description: "Vrakheth is a small, mist-laden harbor town nestled in the cold northern reaches of Nemedis. Its weather-beaten buildings and dark waters tell of its history as a haven for traders and those seeking to escape the more civilized parts of the world."
 ---
 
@@ -19,7 +19,7 @@ Vrakheth is located on the edge of the inland waterways in the northern part of 
 
 | Type         | Population   | Economy           | Climate                |
 |--------------|--------------|-------------------|------------------------|
-| Harbor Town  | 2,500 people | Fishing, smuggling, and limited trade | Cold and damp, with frequent fog and mist  |
+| City  | 2Medium | Fishing, smuggling, and limited trade | Cold and damp, with frequent fog and mist  |
 
 ---
 
