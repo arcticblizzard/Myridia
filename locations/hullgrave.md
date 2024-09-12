@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Hullgrave"
-image: "file-48mVpQMV8kEWZUdCXEEYzhJV"
+image: "/assets/images/hullgrave.jpg"
 permalink: /locations/hullgrave/
 region: "Calamity"
-type: "Shipwreck City"
-coordinates: {latitude: 0.5, longitude: -1.0}
+type: "City"
+coordinates: "5160,4340"
 description: "Hullgrave is a city built entirely from the hulks of ancient ships, remnants of vessels claimed by the powerful whirlpool at the center of the world. Its architecture is a patchwork of timber, iron, and tattered sails, giving it an eerie yet impressive appearance. This dangerous and lawless settlement sits at the edge of the Calamity."
 ---
 
@@ -19,7 +19,7 @@ Hullgrave is a floating city constructed from the remains of hundreds of shipwre
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Shipwreck City      | 4,000      | Salvaging, Piracy, Black Market Trade | Windy and harsh, with frequent storms |
+| City      | Medium      | Salvaging, Piracy, Black Market Trade | Windy and harsh, with frequent storms |
 
 ---
 
