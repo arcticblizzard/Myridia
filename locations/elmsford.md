@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Elmsford"
-image: "file-y96X4QxkUPkaqLZ5fhuPU0XW"
+image: "/assets/images/elmsford.jpg"
 permalink: /locations/elmsford/
 region: "Caelvorn"
 type: "City"
-coordinates: {latitude: 56.1, longitude: -4.8}
+coordinates: "8264,3004"
 description: "Elmsford is a cultural hub located in the heart of Caelvorn. Known for its grand libraries and academies, the city sits on a rolling plain, where scholars and artisans gather from across the region."
 ---
 
