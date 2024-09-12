@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Hearthwatch"
-image: "file-M3vXagDSqjRvig68l3aLwVkY"
+image: "/assets/images/hearthwatch.jpg"
 permalink: /locations/hearthwatch/
 region: "Skaldyr"
-type: "Mountain Village"
-coordinates: {}
+type: "City"
+coordinates: "10796,3484"
 description: "Hearthwatch is a secluded village nestled in the icy foothills of Skaldyr, known for its rugged yet tight-knit community and its small trade outpost."
 ---
 
@@ -19,7 +19,7 @@ Hearthwatch is located in the shadow of the Skaldyr mountains, where icy winds s
 
 | Type            | Population | Economy                 | Climate                |
 |-----------------|------------|-------------------------|------------------------|
-| Mountain Village | 750        | Small-scale trade, Woodcraft | Cold, long winters, harsh winds |
+| City | Small       | Small-scale trade, Woodcraft | Cold, long winters, harsh winds |
 
 ---
 
