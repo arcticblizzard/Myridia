@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Frosthold"
-image: "frosthold.jpg"
+image: "/assets/images/frosthold.jpg"
 permalink: /locations/frosthold/
 region: "Skaldyr"
 type: "City"
-coordinates: {}
+coordinates: "10348,1992"
 description: "Frosthold lies at the heart of Skaldyr, surrounded by icy mountain passes. Unlike many northern cities, its significance comes not from military might but diplomacy."
 ---
 
