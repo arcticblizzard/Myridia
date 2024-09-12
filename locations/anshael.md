@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Anshael"
-image: "file-vw7YtEX7FAsQGDhcY9dE7ART"
+image: "/assets/images/anshael.jpg
 permalink: /locations/anshael/
 region: "Caelvorn"
-type: "Riverside Trade City"
-coordinates: {latitude: 55.3, longitude: -2.5}
+type: "City"
+coordinates: "7852,2584"
 description: "Anshael is a vibrant riverside city that thrives on commerce and craftsmanship, with a blend of rustic architecture and a lively marketplace."
 ---
 
@@ -19,7 +19,7 @@ Anshael is located on the wide river that serves as the primary artery of trade 
 
 | Type                  | Population | Economy                     | Climate                     |
 |-----------------------|------------|-----------------------------|-----------------------------|
-| Riverside Trade City   | 28,000     | Trade, Craftsmanship, River Transport | Cool, temperate, and often misty due to the nearby river |
+| City   | 28,000     | Trade, Craftsmanship, River Transport | Cool, temperate, and often misty due to the nearby river |
 
 ---
 
