@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Ironhaven"
-image: "file-Qk8liI8OrCTiz19UxXDG3Hui"
+image: "/assets/images/ironhaven.jpg"
 permalink: /locations/ironhaven/
 region: "Irathgar"
-type: "Harbor City"
-coordinates: {latitude: 3.8, longitude: -1.9}
+type: "City"
+coordinates: "3208,2432"
 description: "Ironhaven is a massive, imposing harbor city, its entrances guarded by two towering stone sentinels carved into the cliffs. Known for its vast forges and workshops, Ironhaven produces advanced weaponry and machinery."
 ---
 
@@ -19,7 +19,7 @@ Ironhaven is nestled between towering cliffs, where waterfalls cascade into the 
 
 | Type             | Population | Economy                     | Climate                     |
 |------------------|------------|-----------------------------|-----------------------------|
-| Harbor City      | 10,000     | Trade, Shipbuilding, Mining  | Cool, foggy, with frequent rainstorms |
+| City      | Large     | Trade, Shipbuilding, Mining  | Cool, foggy, with frequent rainstorms |
 
 ---
 
