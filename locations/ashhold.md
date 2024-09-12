@@ -5,7 +5,7 @@ image: "/assets/images/ashold.jpg"
 permalink: /locations/ashhold/
 region: "Calamity"
 type: "City"
-coordinates: 5400,3004
+coordinates: "5400,3004"
 description: "Once a mighty fortress, Ashhold now stands as a decaying monument to its lost glory. Fires burn within the crumbling ruins as the city fights to survive amidst the wreckage of its once-great walls."
 ---
 
