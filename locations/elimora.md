@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Elimora"
-image: "file-y4bbkY7w7Zs5KCZoHSGKQqKY"
+image: "/assets/images/elimora.jpg"
 permalink: /locations/elimora/
 region: "Nemedis"
-type: "Trade City"
-coordinates: {}
+type: "City"
+coordinates: "8628,7944"
 description: "Elimora is a bustling trade city located in the heart of Nemedis, famous for its vibrant marketplaces and its mix of high towers and humble streets. Known for its role as a hub of commerce, Elimora thrives on trade routes that stretch across the region."
 ---
 
