@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Zor-Amath"
-image: "file-zhYlS3cP7zxLNVMhMfW8nwK3"
+image: "/assets/images/zor-amath.jpg"
 permalink: /locations/zor-amath/
 region: "Thal-Zora"
-type: "Coastal Metropolis"
-coordinates: {latitude: -12.6, longitude: 32.8}
+type: "City"
+coordinates: "9224,6184"
 description: "A magnificent coastal city with towering minarets, lush palm trees, and golden domes shimmering under a dim, misty sky."
 ---
 
@@ -19,7 +19,7 @@ Zor-Amath is nestled along the warm, subtropical shores of Thal-Zora, where the 
 
 | Type               | Population | Economy                       | Climate                      |
 |--------------------|------------|-------------------------------|------------------------------|
-| Coastal Metropolis  | 250,000    | Trade, Shipbuilding, Fishing   | Subtropical, humid, and warm  |
+| City  | Huge   | Trade, Shipbuilding, Fishing   | Subtropical, humid, and warm  |
 
 ---
 
