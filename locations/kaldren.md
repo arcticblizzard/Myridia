@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Kaldren"
-image: "file-DhedqYcO2Z2C4j1OFThftvK2"
+image: "/assets/images/kaldren.jpg"
 permalink: /locations/kaldren/
 region: "Skaldyr"
-type: "Mountain City"
-coordinates: {}
+type: "City"
+coordinates: "10988,2932"
 description: "Kaldren, a remote city nestled in the Skaldyr mountains, sits under the shadow of a towering peak crowned by a glowing magical node. This node is visible for miles, marking the city's location to both travelers and mystics."
 ---
 
@@ -19,7 +19,7 @@ Kaldren is located in the high peaks of Skaldyr, a region characterized by tower
 
 | Type            | Population | Economy               | Climate                |
 |-----------------|------------|-----------------------|------------------------|
-| Mountain City   | 3,500       | Mining, arcane study  | Cold alpine climate, long winters with brief summers |
+| City   | Small      | Mining, arcane study  | Cold alpine climate, long winters with brief summers |
 
 ---
 
