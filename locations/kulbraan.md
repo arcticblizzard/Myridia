@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Kulbraan"
-image: "28"
+image: "/assets/images/kulbraan.jpg"
 permalink: /locations/kulbraan/
 region: "Tzarnath"
-type: "Mountain City"
-coordinates: {}
+type: "City"
+coordinates: "4520,6240"
 description: "An ancient mountain city high in the misty peaks, known for its towering pagoda-like structures and bustling trade."
 ---
 
@@ -19,7 +19,7 @@ Kulbraan is situated high in the misty peaks of northern Tzarnath. Perched on sh
 
 | Type         | Population | Economy            | Climate                  |
 |--------------|------------|--------------------|--------------------------|
-| Mountain City| Medium      | Trade, Craftsmanship| Cold, misty, temperate    |
+| City| Medium      | Trade, Craftsmanship| Cold, misty, temperate    |
 
 ---
 
