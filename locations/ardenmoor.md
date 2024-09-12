@@ -1,17 +1,17 @@
 ---
 layout: location
 title: "Ardenmoor"
-image: "file-f8hlakXt5cj4ghwQTbmTC7zD"
+image: "/assets/images/ardenmorr.jpg"
 permalink: /locations/ardenmoor/
 region: "Caelvorn"
-type: "Mountain Border Town"
-coordinates: {latitude: 58.5, longitude: -6.2}
-description: "A quiet but resilient town nestled in the shadow of towering peaks, Ardenmoor guards the mountain passes with its sturdy stone towers and wooden palisades."
+type: "City"
+coordinates: "8764,3088"
+description: "REDO"
 ---
 
 ## Geography
 
-Ardenmoor is a small but strategic town located in the foothills of Caelvorn’s tallest mountains. The town is built along a river, and its primary defensive structure is a series of crumbling stone towers that date back centuries. With snow-capped peaks looming in the background and thick forests surrounding the town, Ardenmoor feels isolated but secure. The mountains offer both protection and a challenging environment, making the town’s survival an impressive feat.
+REDO
 
 ---
 
@@ -19,7 +19,7 @@ Ardenmoor is a small but strategic town located in the foothills of Caelvorn’s
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Mountain Border Town| 8,000      | Mining, Defense, Trade       | Cool, with harsh winters     |
+| City| Small     | Mining, Trade       | Cool, with harsh winters     |
 
 ---
 
