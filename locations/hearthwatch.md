@@ -5,7 +5,7 @@ image: "/assets/images/hearthwatch.jpg"
 permalink: /locations/hearthwatch/
 region: "Skaldyr"
 type: "City"
-coordinates: "10796,3484"
+coordinates: "8828,1244"
 description: "Hearthwatch is a secluded village nestled in the icy foothills of Skaldyr, known for its rugged yet tight-knit community and its small trade outpost."
 ---
 
