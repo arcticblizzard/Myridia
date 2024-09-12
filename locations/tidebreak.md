@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Tidebreak"
-image: "file-aDkarUmeYVwWxoGedGZ7dgsI"
+image: "/assets/images/tidebreak.jpg"
 permalink: /locations/tidebreak/
 region: "Calamity"
-type: "Ruined Coastal City"
-coordinates: {latitude: 1.5, longitude: -1.3}
+type: "City"
+coordinates: "4432,3552"
 description: "Tidebreak is a crumbling coastal city nestled between cliffs and the sea. It was once a prosperous city of trade but has been ravaged by the ever-encroaching waters of the Calamity and the relentless erosion of time."
 ---
 
@@ -19,7 +19,7 @@ Tidebreak sits along a narrow bay, its once-mighty stone fortifications now crum
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Ruined Coastal City | 1,200      | Scavenging, Fishing, Black Market | Cold, damp, with frequent fog and storms |
+| City | Small      | Scavenging, Fishing, Black Market | Cold, damp, with frequent fog and storms |
 
 ---
 
