@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Aralai"
-image: "file-TEdrgu9HTeIZi1SeWuCT4f3W"
+image: "/assets/images/arlai.jpg"
 permalink: /locations/arlai/
 region: "Nemedis"
-type: "Tree Village"
-coordinates: {}
+type: "City"
+coordinates: "6664,8232"
 description: "Aralai is a peaceful settlement nestled among the towering redwood trees of Nemedis, where waterfalls and bridges flow through the heart of the village."
 ---
 
@@ -19,8 +19,7 @@ Aralai is built among the gigantic redwood trees of the Nemedis region. The vill
 
 | Type         | Population  | Economy                   | Climate                |
 |--------------|-------------|---------------------------|------------------------|
-| Tree Village | 1,200 people| Woodcrafting, herbalism,   | Mild, forested with     |
-|              |             | and trade of rare plants   | steady rainfall and cool temperatures|
+| City | 1,200 people| Woodcrafting, herbalism, and trade of rare plants   | Mild, forested with steady rainfall and cool temperatures   |
 
 ---
 
