@@ -4,14 +4,14 @@ title: "Windale"
 image: "file-XfI0vvdg0PIvClhFQVrCZDQb"
 permalink: /locations/windale/
 region: "Caelvorn"
-type: "Market Town"
+type: "Town"
 coordinates: {latitude: 55.7, longitude: -3.5}
 description: "Windale is a bustling market town known for its picturesque half-timbered houses, winding streets, and lively marketplaces. The town sits at the crossroads of important trade routes, making it a vital center of commerce in Caelvorn."
 ---
 
 ## Geography
 
-Windale is nestled between rolling hills and dense woodlands, giving it a peaceful yet vibrant atmosphere. The town is built around a central marketplace where merchants and locals gather to trade goods. Windmills and small farms surround the town, supporting its economy and ensuring a steady supply of goods. The streets are narrow and lined with timber-framed houses, each adorned with colorful banners and flower boxes.
+Windale is nestled between rolling hills and dense woodlands, giving it a peaceful yet vibrant atmosphere. Famous for its rare orchards and high quality crops, Windale is a vital agricultural center for the region. Its climate, though cool, provides the perfect conditions for producing fruits and grains that are exported across the continent. The town is built around a central marketplace where merchants and locals gather to trade goods. Windmills and small farms surround the town, supporting its economy and ensuring a steady supply of goods. The streets are narrow and lined with timber-framed houses, each adorned with colorful banners and flower boxes.
 
 ---
 
@@ -19,7 +19,7 @@ Windale is nestled between rolling hills and dense woodlands, giving it a peacef
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Market Town         | 6,500      | Trade, Agriculture, Craftsmanship | Temperate, with mild winters and warm summers |
+| Town         | Small    | Trade, Agriculture, Craftsmanship, Brewing | Temperate, with mild winters and warm summers |
 
 ---
 
@@ -29,6 +29,7 @@ Windale is nestled between rolling hills and dense woodlands, giving it a peacef
 |------------------------|-------------------------------------------------------------------------------------------------|
 | The Windale Marketplace | The heart of the town, where traders from across Caelvorn gather to sell goods and produce. The marketplace is known for its variety of wares, from exotic spices to finely crafted tools. |
 | The Old Windmill        | An iconic windmill at the edge of the town, still in use today, providing flour for the local bakers and mills. |
+| Brewer's Hall | A well-worn guild-hall for regional brewers, providing a space to dispaly and share their craft. |
 
 ---
 
