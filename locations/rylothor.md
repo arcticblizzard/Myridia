@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Rylothor"
-image: "file-vaFegTAGt9BIgP8yLCvGov2d"
+image: "/assets/images/rylothor.jpg"
 permalink: /locations/rylothor/
 region: "Caelvorn"
-type: "Underground City"
-coordinates: {latitude: 57.3, longitude: -4.1}
+type: "City"
+coordinates: "8080,2664"
 description: "Deep within the earth, Rylothor is an ancient and mysterious city carved from stone. Illuminated by the soft glow of candles and magical crystals, it serves as a hidden refuge and a center of power for those who live away from the sun."
 ---
 
@@ -19,7 +19,7 @@ Rylothor lies within the vast caverns of Caelvorn’s underground, a city hidden
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Underground City    | 15,000     | Mining, Enchanting, Trade    | Cool, dark, with a constant dampness |
+| City    | Large    | Mining, Enchanting, Trade    | Cool, dark, with a constant dampness |
 
 ---
 
