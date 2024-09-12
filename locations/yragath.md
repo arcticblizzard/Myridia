@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Yragath"
-image: "file-bLKOMSl1q23XJbi32eUzDNmd"
+image: "/assets/images/yragath.jpg"
 permalink: /locations/yragath/
 region: "Khorash"
-type: "Underground City"
-coordinates: {latitude: 12.7, longitude: -14.3}
+type: "City"
+coordinates: "2744,5280"
 description: "Yragath is an ancient underground city hidden beneath the surface of the mountains in Khorash. The city’s grand entrance is carved into the cliffside, offering a solitary staircase that leads into the depths. Inside, Yragath sprawls through a labyrinth of stone corridors and hidden chambers."
 ---
 
@@ -19,7 +19,7 @@ Yragath is situated beneath a rugged mountainous region in Khorash, concealed be
 
 | Type              | Population | Economy                      | Climate                    |
 |-------------------|------------|------------------------------|----------------------------|
-| Underground City   | 5,000      | Mining, Craftsmanship, Trade  | Cool, damp, perpetual twilight|
+| City   | Large      | Mining, Craftsmanship, Trade  | Cool, damp, perpetual twilight|
 
 ---
 
