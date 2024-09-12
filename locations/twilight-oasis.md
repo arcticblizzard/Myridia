@@ -2,6 +2,7 @@
 layout: location
 title: "Twilight Oasis"
 permalink: /locations/city-of-twilight-oasis/
+image: "/assets/images/twilight-oasis.jpg"
 region: "Ashakara"
 type: "City"
 coordinates: "8536,4642"
