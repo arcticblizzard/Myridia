@@ -1,7 +1,7 @@
 ---
 layout: location
 title: "Alderun"
-image: "file-28PQJVAFgvFzRgVs7BK1PxiJ"
+image: "/assets/images/alderun.jpg"
 permalink: /locations/alderun/
 region: "Irathgar"
 type: "City"
