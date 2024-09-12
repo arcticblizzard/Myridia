@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Rogath"
-image: "file-2q3wJlqIIx5DwQrBvJO7NBYH"
+image: "/assets/images/rogath.jpg"
 permalink: /locations/rogath/
 region: "Nemedis"
-type: "Fortress City"
-coordinates: {}
+type: "City"
+coordinates: "7528,8240"
 description: "Rogath is a large fortress city perched on a hill overlooking the surrounding forests and plains, a strategic stronghold in the heart of Nemedis."
 ---
 
@@ -19,7 +19,7 @@ Rogath is located atop a steep hill, surrounded by dense forests and wide, mist-
 
 | Type           | Population  | Economy                     | Climate                |
 |----------------|-------------|-----------------------------|------------------------|
-| Fortress City  | 8,000 people| Trade, military outpost      | Cool and temperate, with frequent mist and rainfall|
+| City  | Medium | Trade, military outpost      | Cool and temperate, with frequent mist and rainfall|
 
 ---
 
