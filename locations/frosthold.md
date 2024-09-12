@@ -4,14 +4,14 @@ title: "Frosthold"
 image: "frosthold.jpg"
 permalink: /locations/frosthold/
 region: "Skaldyr"
-type: "Fortified City"
+type: "City"
 coordinates: {}
-description: "Frosthold is a massive fortified city located in the icy, northern mountains of Skaldyr. The city's tall, frost-encrusted towers stand as a testament to its people's resilience against the harsh winters and northern threats."
+description: "Frosthold lies at the heart of Skaldyr, surrounded by icy mountain passes. Unlike many northern cities, its significance comes not from military might but diplomacy."
 ---
 
 ## Geography
 
-Frosthold is situated high in the mountains of Skaldyr, surrounded by snow-covered peaks and towering cliffs. Icy winds whip through the city's streets year-round, and the snow rarely melts. The city is built on multiple levels, with stone bridges connecting various towers and buildings. The surrounding terrain is treacherous and unforgiving, making Frosthold both a fortress and a safe haven for its people.
+Frosthold lies at the heart of Skaldyr, surrounded by icy mountain passes. Unlike many northern cities, its significance comes not from military might but diplomacy. Frosthold hosts yearly peace summits between the various northern tribes, ensuring that conflicts are resolved through dialogue. The city’s neutral status and reputation for fairness make it a political center in the region.
 
 ---
 
@@ -19,7 +19,7 @@ Frosthold is situated high in the mountains of Skaldyr, surrounded by snow-cover
 
 | Type         | Population  | Economy             | Climate                |
 |--------------|-------------|---------------------|------------------------|
-| Fortified City | 30,000      | Mining, trade       | Harsh winters, cold winds, year-round snow |
+| City | Large    | Mining, trade       | Harsh winters, cold winds, year-round snow |
 
 ---
 
@@ -29,6 +29,8 @@ Frosthold is situated high in the mountains of Skaldyr, surrounded by snow-cover
 |------------------------|-------------------------------------------------------------------------------------------------|
 | The Skywatch Tower      | The tallest tower in Frosthold, used for watching the skies and surrounding regions for incoming threats. |
 | The Frozen Cathedral    | A grand cathedral built from ice and stone, a place of worship and meditation for the city's inhabitants. |
+| The Hall of Peace | A grand hall where the northern tribes gather for yearly summits to resolve disputes. |
+| The Shimmering Fjord | A beautiful fjord near Frosthold, where ceremonies for tribal unity take place. |
 
 ---
 
