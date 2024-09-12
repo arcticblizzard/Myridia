@@ -11,7 +11,7 @@ description: "Yragath is an ancient underground city hidden beneath the surface 
 
 ## Geography
 
-Yragath is situated beneath a rugged mountainous region in Khorash, concealed behind a monumental entrance carved directly into the rocky cliffs. A long stone staircase descends from the surface, leading into the subterranean city, where the architecture of the city remains unseen to the outside world. Only the grand, intricately carved archway marks the entrance to this hidden metropolis, with few visitors ever knowing its location without guidance. Inside, the city is lit by bioluminescent flora, massive crystals embedded in the walls, and ancient dwarven engineering.
+Yragath is situated beneath a rugged mountainous region in Khorash, concealed behind a monumental entrance carved directly into the rocky cliffs. A long stone staircase descends from the surface, leading into the subterranean city, where the architecture of the city remains unseen to the outside world. Only the grand, intricately carved archway marks the entrance to this hidden metropolis, with few visitors ever knowing its location without guidance. Inside, the city is lit by bioluminescent flora, massive crystals embedded in the walls, and ancient dwarven engineering. The city is a beacon of innovation, where new techniques in metalworking and architecture are constantly developed and shared with the world.
 
 ---
 
@@ -30,6 +30,7 @@ Yragath is situated beneath a rugged mountainous region in Khorash, concealed be
 | The Dwarven Gate              | The grand entrance to Yragath, towering over the landscape and hewn from the cliffside. Its intricate carvings depict ancient dwarven legends. |
 | The Crystal Caverns           | Located deep within the city, these caverns house enormous glowing crystals that light the surrounding halls. They are also mined for their rare minerals. |
 | The Great Forge of Kromdar    | A massive forge that forms the heart of Yragath's industry. Master smiths from the city craft the finest weapons, armor, and tools, coveted across Khorash. |
+| The Hall of Masters | A grand hall where the greatest craftsmen of Yragath are honored, and where new leaders are chosen. |
 
 ---
 
