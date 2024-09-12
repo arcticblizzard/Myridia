@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Glacierdeep"
-image: "file-Jal9J8rcQt06pX2VSGpVLKJ9"
+image: "/assets/images/glacierdeep.jpg"
 permalink: /locations/glacierdeep/
 region: "Skaldyr"
-type: "Mountain Mining City"
-coordinates: {}
+type: "City"
+coordinates: "10352,1372"
 description: "Glacierdeep is a remote city nestled near the base of an ancient glacier, renowned for its rare prismatic gem mining and harsh, frigid environment."
 ---
 
@@ -19,7 +19,7 @@ Glacierdeep sits in a desolate, frozen valley surrounded by towering cliffs and 
 
 | Type               | Population | Economy                      | Climate                           |
 |--------------------|------------|------------------------------|-----------------------------------|
-| Mountain Mining City | 3,500     | Prismatic Gem Mining, Ice Trade | Sub-Arctic, Glacial Winds, Freezing Cold |
+| City | Small     | Prismatic Gem Mining, Ice Trade | Sub-Arctic, Glacial Winds, Freezing Cold |
 
 ---
 
