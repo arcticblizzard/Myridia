@@ -4,8 +4,8 @@ title: "Aelindor"
 image: "file-nmHMnUIArzuxgTixSrZxwR4J"
 permalink: /locations/aelindor/
 region: "Nemedis"
-type: "Elvish City"
-coordinates: {}
+type: "City"
+coordinates: "6564,7640"
 description: "Aelindor, a breathtaking elvish city nestled within a canyon, is renowned for its elegant architecture that seamlessly blends with nature. Surrounded by waterfalls and lush forests, Aelindor stands as a testament to elven craftsmanship and harmony with the environment."
 ---
 
