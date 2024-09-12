@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Valdrift"
-image: "172"
+image: "/assets/images/valdrift.jpg"
 permalink: /locations/valdrift/
 region: "Tzarnath"
-type: "Coastal City"
-coordinates: {}
+type: "City"
+coordinates: "4368,6556"
 description: "A grand coastal city that serves as Tzarnath’s gateway to the sea, known for its vast ports and rich maritime culture."
 ---
 
@@ -19,7 +19,7 @@ Valdrift is built along the coast of Tzarnath, its sprawling harbor filled with 
 
 | Type         | Population | Economy            | Climate                  |
 |--------------|------------|--------------------|--------------------------|
-| Coastal City | Large       | Trade, Fishing     | Warm, coastal, temperate  |
+| City | Large       | Trade, Fishing     | Warm, coastal, temperate  |
 
 ---
 
