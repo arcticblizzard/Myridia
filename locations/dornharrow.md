@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Dornharrow"
-image: "file-uAlT83wzZocql9uzdzA8AWyE"
+image: "/assets/images/dornharrow.jpg"
 permalink: /locations/dornharrow/
 region: "Caelvorn"
-type: "Hilltop Stronghold"
-coordinates: {latitude: 56.7, longitude: -5.4}
+type: "City"
+coordinates: "9820,3364"
 description: "A somber and foreboding stronghold built upon a lonely hilltop, Dornharrow commands a view of the mist-laden valleys below. Its ancient stone walls stand resilient against the elements and time, a silent guardian of the northern frontier."
 ---
 
@@ -19,7 +19,7 @@ Dornharrow sits atop a solitary hill that rises steeply from the surrounding lan
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Hilltop Stronghold  | 12,000     | Defense, Stonecraft, Herding | Cold, misty, and windswept   |
+| City  | Medium    | Defense, Stonecraft, Herding | Cold, misty, and windswept   |
 
 ---
 
