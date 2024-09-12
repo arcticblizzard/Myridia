@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Arjatha"
-image: "file-m0vvf6B1SBxbYPNCyrY4l1pX"
+image: "/assets/images/arjatha.jpg"
 permalink: /locations/arjatha/
 region: "Khorash"
-type: "Coastal City"
-coordinates: {}
+type: "City"
+coordinates: "2648,5044"
 description: "Arjatha is a sprawling coastal city carved into the cliffs of the Khorash region. It serves as a hub for maritime trade and is known for its towering stone fortifications, bustling docks, and strategic influence over nearby waters."
 ---
 
@@ -19,7 +19,7 @@ Arjatha is nestled against the towering cliffs of Khorash, with its buildings an
 
 | Type         | Population       | Economy             | Climate                |
 |--------------|------------------|---------------------|------------------------|
-| Coastal City | 75,000 people     | Maritime Trade, Fishing | Mediterranean climate with mild winters and hot, dry summers |
+| City | Large     | Maritime Trade, Fishing | Mediterranean climate with mild winters and hot, dry summers |
 
 ---
 
