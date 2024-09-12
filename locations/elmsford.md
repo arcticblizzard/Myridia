@@ -4,14 +4,14 @@ title: "Elmsford"
 image: "file-y96X4QxkUPkaqLZ5fhuPU0XW"
 permalink: /locations/elmsford/
 region: "Caelvorn"
-type: "Fortified Hill City"
+type: "City"
 coordinates: {latitude: 56.1, longitude: -4.8}
-description: "Elmsford is a fortified city built into the rolling hills of Caelvorn, its towering castle casting long shadows over the surrounding village. A center for trade, governance, and festivity, it is known for its lively streets and market squares."
+description: "Elmsford is a cultural hub located in the heart of Caelvorn. Known for its grand libraries and academies, the city sits on a rolling plain, where scholars and artisans gather from across the region."
 ---
 
 ## Geography
 
-Elmsford is located on a steep hill that overlooks a wide valley. The city rises in terraces, with the imposing castle of Elmsford at the top, guarding the town below. The streets are cobblestone, lined with timber-framed houses and market stalls. The surrounding lands are fertile and provide much of the city's food supply. Small streams from the mountains flow into the city, providing fresh water and natural beauty.
+Elmsford is a cultural hub located in the heart of Caelvorn. Known for its grand libraries and academies, the city sits on a rolling plain, where scholars and artisans gather from across the region. Instead of fortifications, the city’s landscape is dotted with statues, memorials, and other artistic works that commemorate its long history of learning and cultural achievement. The streets are cobblestone, lined with timber-framed houses and market stalls. The surrounding lands are fertile and provide much of the city's food supply. Small streams from the mountains flow into the city, providing fresh water and natural beauty.
 
 ---
 
@@ -19,7 +19,7 @@ Elmsford is located on a steep hill that overlooks a wide valley. The city rises
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Fortified Hill City | 18,000     | Agriculture, Trade, Governance | Mild, with warm summers and cool winters |
+| City | Medium     | Agriculture, Trade, Art | Mild, with warm summers and cool winters |
 
 ---
 
@@ -29,6 +29,8 @@ Elmsford is located on a steep hill that overlooks a wide valley. The city rises
 |------------------------|-------------------------------------------------------------------------------------------------|
 | Elmsford Castle         | A towering structure at the peak of the hill, home to the city's ruling family and the center of governance. Its thick walls have withstood numerous sieges over the centuries. |
 | The Fairground Square   | A lively marketplace and gathering place for festivals and trade, known for its vibrant banners and frequent celebrations. |
+| Grand Library of Elmsford | The largest library in Caelvorn, containing ancient texts and art collections from across the world. |
+| Artisan's Square | A famous gathering place where artists display their works and hold public exhibitions.
 
 ---
 
