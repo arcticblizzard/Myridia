@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Vallencliff"
-image: "file-9fXQy2RtR9KgYJiFzJWVIN8C"
+image: "/assets/images/vallencliff.jpg"
 permalink: /locations/vallencliff/
 region: "Irathgar"
-type: "Plateau Settlement"
-coordinates: {latitude: 8.7, longitude: -2.9}
+type: "City"
+coordinates: "4972,1528"
 description: "Vallencliff is a small, isolated settlement perched high upon a plateau in the mountainous region of Irathgar. The city enjoys a natural defense provided by the surrounding cliffs, with eagles often seen soaring through the crisp mountain air."
 ---
 
@@ -19,7 +19,7 @@ Vallencliff is nestled on a plateau high in the mountains of Irathgar. The settl
 
 | Type                | Population | Economy                     | Climate                |
 |---------------------|------------|-----------------------------|------------------------|
-| Plateau Settlement   | 700        | Fur trading, Woodcrafting, Minimal agriculture | Cold, snow-covered, high winds |
+| City   | Small        | Fur trading, Woodcrafting, Minimal agriculture | Cold, snow-covered, high winds |
 
 ---
 
