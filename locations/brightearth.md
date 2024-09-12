@@ -1,17 +1,17 @@
 ---
 layout: location
 title: "Brighthearth"
-image: "file-5GCK5kFz7iLIuS1lmMtMWwGG"
+image: "/assets/images/brightearth.jpg"
 permalink: /locations/brighthearth/
 region: "Caelvorn"
-type: "Mountain Fortress City"
-coordinates: {latitude: 58.2, longitude: -4.7}
-description: "A stunning city perched atop a massive cliff overlooking the sea, Brighthearth is known for its glowing golden fortifications that blaze like a beacon at sunset."
+type: "City"
+coordinates: "8048,3260"
+description: "REDO"
 ---
 
 ## Geography
 
-Brighthearth is built upon a towering cliff that rises steeply from the sea, its golden-hued walls reflecting the light of the setting sun. The city has multiple levels, with narrow streets and stairways carved directly into the rock face. From the highest point in the city, the sprawling fortress overlooks both the sea and the surrounding mountainous terrain, offering unparalleled views of the horizon and protection from attacks.
+REDO
 
 ---
 
@@ -19,7 +19,7 @@ Brighthearth is built upon a towering cliff that rises steeply from the sea, its
 
 | Type                  | Population | Economy                    | Climate                     |
 |-----------------------|------------|----------------------------|-----------------------------|
-| Mountain Fortress City | 45,000     | Trade, Fishing, Craftsmanship | Cool, windy, and often misty |
+| City | 45,000     | Trade, Fishing, Craftsmanship | Cool, windy, and often misty |
 
 ---
 
