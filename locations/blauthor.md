@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Blauthor"
-image: "file-WGEoY9DDGdGXy9LzSGUqiXLx"
+image: "/assets/images/blauthor.jpg"
 permalink: /locations/blauthor/
 region: "Irathgar"
-type: "Fortress City"
-coordinates: {latitude: 3.6, longitude: -2.2}
+type: "City"
+coordinates: "2872,2776"
 description: "Blauthor, a once-proud fortress city, now stands as a grim reminder of war's cost. Its high walls and towers are blackened with soot, and distant flames glow from within its depths, casting an eerie light over the forest below."
 ---
 
@@ -19,7 +19,7 @@ Blauthor is a fortress city perched atop the high cliffs of the Irathgar region,
 
 | Type             | Population | Economy                     | Climate                     |
 |------------------|------------|-----------------------------|-----------------------------|
-| Fortress City    | 5,000      | Siegecraft, Blacksmithing    | Cold, windy, and overcast with frequent storms |
+| City    | Medium     | Siegecraft, Blacksmithing    | Cold, windy, and overcast with frequent storms |
 
 ---
 
