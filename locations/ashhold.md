@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Ashhold"
-image: "file-o3ORvRPWeK3C9TIIXuond0Gc"
+image: "/assets/images/ashold.jpg"
 permalink: /locations/ashhold/
 region: "Calamity"
-type: "Ruined Stronghold"
-coordinates: {latitude: 2.3, longitude: -1.6}
+type: "City"
+coordinates: 5400,3004
 description: "Once a mighty fortress, Ashhold now stands as a decaying monument to its lost glory. Fires burn within the crumbling ruins as the city fights to survive amidst the wreckage of its once-great walls."
 ---
 
@@ -19,7 +19,7 @@ Ashhold is a ruined stronghold, carved into jagged cliffs, with crumbling towers
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Ruined Stronghold   | 3,500      | Scavenging, Forging, Mercenaries | Harsh, cold, with ashy winds and constant storms |
+| City   | Medium      | Scavenging, Forging, Mercenaries | Harsh, cold, with ashy winds and constant storms |
 
 ---
 
