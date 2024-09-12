@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Velsara"
-image: "file-FvQaujTXo9VlyKgQTe9D1mWA"
+image: "/assets/images/velsara.jpg"
 permalink: /locations/velsara/
 region: "Khorash"
-type: "Clifftop Citadel"
-coordinates: {latitude: 10.4, longitude: -16.7}
+type: "City"
+coordinates: "2064,4536"
 description: "Velsara is a grand citadel city that rests upon a towering cliff, its sprawling architecture cascading down the hillside. The city is renowned for its strong defenses and its stunning view over the plains of Khorash."
 ---
 
@@ -19,7 +19,7 @@ Velsara is built atop a steep cliff that overlooks the fertile plains of Khorash
 
 | Type                | Population | Economy                      | Climate                    |
 |---------------------|------------|------------------------------|----------------------------|
-| Clifftop Citadel     | 12,000     | Farming, Stonework, Trade     | Mild, windy, seasonal rain  |
+| City     | Large    | Farming, Stonework, Trade     | Mild, windy, seasonal rain  |
 
 ---
 
