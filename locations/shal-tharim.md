@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Sahl-Tharim"
-image: "file-iFMQunQI0NKdW2ws3emR1eVZ"
+image: "/assets/images/sahl-tharim.jpg"
 permalink: /locations/sahl-tharim/
 region: "Thal-Zora"
-type: "Fortified Port City"
-coordinates: {latitude: -10.8, longitude: 34.1}
+type: "City"
+coordinates: "10732,5480"
 description: "A sprawling port city known for its towering fortifications, red-tiled roofs, and labyrinthine streets that wind through tightly packed buildings overlooking a busy harbor."
 ---
 
@@ -19,7 +19,7 @@ Sahl-Tharim is perched on a narrow peninsula in the southern reaches of Thal-Zor
 
 | Type                 | Population | Economy                    | Climate                     |
 |----------------------|------------|----------------------------|-----------------------------|
-| Fortified Port City   | 120,000    | Trade, Shipbuilding, Defense | Warm, temperate, coastal     |
+| City   | Large    | Trade, Shipbuilding, Defense | Warm, temperate, coastal     |
 
 ---
 
