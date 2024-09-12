@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Elyndor"
-image: "file-3Jy3VON8R6AnPYnnDnb4yDCj"
+image: "/assets/images/elyndor.jpg"
 permalink: /locations/elyndor/
 region: "Irathgar"
-type: "Mountain City, Magic Academy"
-coordinates: {latitude: 6.2, longitude: -3.7}
+type: "City"
+coordinates: "3032,3096"
 description: "Elyndor, a mountain city perched high in the Irathgar ranges, is famed for its prestigious magic academy, located on a floating island connected to the main city by an impossibly long span over a steep cliff."
 ---
 
@@ -19,7 +19,7 @@ Elyndor sits in the heart of Irathgar's mountainous terrain, nestled atop a high
 
 | Type                | Population | Economy                     | Climate                |
 |---------------------|------------|-----------------------------|------------------------|
-| Mountain City, Academy | 2,500     | Magical Arts, Scholarship    | Cold, brisk, windy with heavy fog |
+| City | 2,500     | Magical Arts, Scholarship    | Cold, brisk, windy with heavy fog |
 
 ---
 
