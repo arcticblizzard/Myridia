@@ -6,12 +6,12 @@ permalink: /locations/ironhaven/
 region: "Irathgar"
 type: "Harbor City"
 coordinates: {latitude: 3.8, longitude: -1.9}
-description: "Ironhaven is a massive, imposing harbor city, its entrances guarded by two towering stone sentinels carved into the cliffs. The city's architecture reflects its strength and its people’s relentless determination."
+description: "Ironhaven is a massive, imposing harbor city, its entrances guarded by two towering stone sentinels carved into the cliffs. Known for its vast forges and workshops, Ironhaven produces advanced weaponry and machinery."
 ---
 
 ## Geography
 
-Ironhaven is nestled between towering cliffs, where waterfalls cascade into the deep waters of the harbor. The entrance to the city is protected by two massive stone sentinels carved directly into the cliffs, their weathered hands gripping enormous swords that cross over the entrance to the port. The harbor is a vital hub for trade and travel within Irathgar, and the city is built into the rocky cliffs, with towering ziggurats and fortifications rising above the bustling streets below. Ironhaven’s natural defenses and its formidable sentinels make it nearly impregnable from seaward attacks.
+Ironhaven is nestled between towering cliffs, where waterfalls cascade into the deep waters of the harbor. The entrance to the city is protected by two massive stone sentinels carved directly into the cliffs, their weathered hands gripping enormous swords that cross over the entrance to the port. The harbor is a vital hub for trade and travel within Irathgar, and the city is built into the rocky cliffs, with towering ziggurats and fortifications rising above the bustling streets below. Known for its vast forges and workshops, Ironhaven produces advanced weaponry and machinery. The city's leaders are not merchants but master engineers and inventors, constantly pushing the boundaries of technology. The relentless hum of machinery fills the air, as the city never sleeps, always producing something new.
 
 ---
 
