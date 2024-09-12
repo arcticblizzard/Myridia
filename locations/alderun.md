@@ -4,8 +4,8 @@ title: "Alderun"
 image: "file-28PQJVAFgvFzRgVs7BK1PxiJ"
 permalink: /locations/alderun/
 region: "Irathgar"
-type: "Mountain Fortress"
-coordinates: {latitude: 7.5, longitude: -4.2}
+type: "City"
+coordinates: "4016,1724"
 description: "Alderun is a city carved into the mountainside, known for its ancient towering fortresses and strategic location high in the mountains of Irathgar. It is a stronghold city, defending the region with its formidable stone walls and sheer cliffs."
 ---
 
@@ -19,7 +19,7 @@ Alderun is a city built directly into the rocky mountains of Irathgar. Its archi
 
 | Type                | Population | Economy                     | Climate                |
 |---------------------|------------|-----------------------------|------------------------|
-| Mountain Fortress    | 4,000      | Stoneworking, Military Stronghold | Cold, alpine, frequent fog and wind |
+| City    | 4,000      | Stoneworking, Military Stronghold | Cold, alpine, frequent fog and wind |
 
 ---
 
