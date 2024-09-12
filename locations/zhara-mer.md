@@ -11,7 +11,7 @@ description: "An ancient city where ruins of old civilizations meet the bustling
 
 ## Geography
 
-Zhara-Mer is located on the lush, hilly coastline of Thal-Zora, surrounded by verdant fields and rivers that feed into the sea. The city is a mix of ruined temples and statues of an ancient civilization, now integrated into the modern-day docks and buildings. The bustling harbor is the heart of the city, with colorful sails lining the docks and markets brimming with goods from across the islands.
+Zhara-Mer is located on the lush, hilly coastline of Thal-Zora, surrounded by verdant fields and rivers that feed into the sea. Zhara-Mer is a city where history and preservation take precedence. Built on the ruins of an ancient civilization, Zhara-Mer is governed by a council of historians and archaeologists who strive to protect the relics of the past. The city is as much a museum as it is a living settlement, with ancient ruins carefully integrated into modern life, drawing scholars and tourists from across Myridia. The bustling harbor is the heart of the city, with colorful sails lining the docks and markets brimming with goods from across the islands.
 
 ---
 
@@ -29,6 +29,8 @@ Zhara-Mer is located on the lush, hilly coastline of Thal-Zora, surrounded by ve
 |------------------------|-------------------------------------------------------------------------------------------------|
 | The Ancient Statues     | Massive, crumbling statues of forgotten gods that line the ruins of the old city, now towering over the harbor. |
 | The Red Sail Market     | A bustling marketplace at the docks, known for its vibrant red sails covering the merchant stalls. |
+| The Temple Ruins | The remnants of an ancient temple that serves as both a historical site and a place of worship. |
+| The Council Hall | A grand building where the city’s historians and archaeologists meet to decide on preservation efforts. |
 
 ---
 
