@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Brynvall"
-image: "file-fSvbOqu3kIgCia1hTmNWsdHB"
+image: "/assets/images/brynvall.jpg"
 permalink: /locations/brynvall/
 region: "Skaldyr"
-type: "Forest Settlement"
-coordinates: {}
+type: "City"
+coordinates: "10940,3160"
 description: "Brynvall, a secluded settlement nestled in the towering boreal forests of Skaldyr. Known for its elegant architecture that blends with the forest, the city is revered for its deep connection with nature."
 ---
 
@@ -19,7 +19,7 @@ Brynvall is hidden deep within the boreal forests of Skaldyr, where massive anci
 
 | Type                | Population | Economy             | Climate                |
 |---------------------|------------|---------------------|------------------------|
-| Forest Settlement   | 2,500      | Hunting, foraging, herbalism | Cold, with misty mornings and frequent snowfall in winter |
+| City   | Small     | Hunting, foraging, herbalism | Cold, with misty mornings and frequent snowfall in winter |
 
 ---
 
