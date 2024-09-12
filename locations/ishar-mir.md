@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Ishar-Mir"
-image: "file-DkAQcNN8HjlyMilaPggbyjFK"
+image: "/assets/images/ishar-mir.jpg"
 permalink: /locations/ishar-mir/
 region: "Thal-Zora"
-type: "Mountain Citadel"
-coordinates: {latitude: -11.9, longitude: 36.7}
+type: "City"
+coordinates: "10748,4728"
 description: "A fortress city nestled high in the mountains, Ishar-Mir stands as a testament to the strength of the Zoran people, with its towering stone walls and red-roofed citadel overlooking the valleys below."
 ---
 
@@ -19,7 +19,7 @@ Ishar-Mir is built high into the towering mountains of Thal-Zora, with its red-t
 
 | Type               | Population | Economy                      | Climate                     |
 |--------------------|------------|------------------------------|-----------------------------|
-| Mountain Citadel    | 40,000     | Mining, Stonecraft, Defense   | Cool, mountainous, alpine    |
+| City    | Medium     | Mining, Stonecraft, Defense   | Cool, mountainous, alpine    |
 
 ---
 
