@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Eshara-Khal"
-image: "file-yOVPuptxJVyjOwQiKXzv83In"
+image: "/assets/images/eshara-khal.jpg"
 permalink: /locations/eshara-khal/
 region: "Thal-Zora"
-type: "Clifftop City"
-coordinates: {latitude: -13.1, longitude: 35.6}
+type: "City"
+coordinates: "10384,6960"
 description: "Perched atop dramatic cliffs overlooking the shimmering waters of the southern seas, Eshara-Khal is known for its white stone buildings, sunlit hills, and majestic views of the horizon."
 ---
 
@@ -19,7 +19,7 @@ Eshara-Khal is a city built into the cliffs of Thal-Zora, cascading down toward 
 
 | Type             | Population | Economy                    | Climate                     |
 |------------------|------------|----------------------------|-----------------------------|
-| Clifftop City     | 90,000     | Trade, Fishing, Tourism     | Warm, temperate, and breezy  |
+| City     | 90,000     | Trade, Fishing, Tourism     | Warm, temperate, and breezy  |
 
 ---
 
