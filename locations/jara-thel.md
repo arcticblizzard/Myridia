@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Jara'thel"
-image: "158"
+image: "/assets/images/jarathel.jpg"
 permalink: /locations/jarathel/
 region: "Tzarnath"
 type: "City"
-coordinates: {}
+coordinates: "5752,6504"
 description: "A city nestled among a grove of ancient baobab trees, known for its symbiosis with nature and mastery of herbal medicine."
 ---
 
@@ -19,7 +19,7 @@ Jara'thel is built within a grove of enormous baobab trees that dominate the lan
 
 | Type         | Population | Economy             | Climate                  |
 |--------------|------------|---------------------|--------------------------|
-| Forest City  | Medium      | Herbalism, Trade    | Humid, tropical, forested |
+| City  | Medium      | Herbalism, Trade    | Humid, tropical, forested |
 
 ---
 
