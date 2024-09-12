@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Ruinstead"
-image: "file-lB8EWp8vQSTGMygJfUoOZJRn"
+image: "/assets/images/ruinstead.jpg"
 permalink: /locations/ruinstead/
 region: "Irathgar"
-type: "Village"
-coordinates: {}
+type: "City"
+coordinates: "3204,2192"
 description: "Ruinstead is a small, secluded village nestled in the rocky cliffs of Irathgar, where the remnants of old structures stand as a testament to a once-thriving settlement."
 ---
 
@@ -19,7 +19,7 @@ Ruinstead lies in a desolate valley surrounded by towering cliffs in the rugged 
 
 | Type         | Population   | Economy                  | Climate                   |
 |--------------|--------------|--------------------------|---------------------------|
-| Village      | 300 people   | Subsistence farming, hunting | Cold, foggy, and often rainy |
+| City      | Small   | Subsistence farming, hunting | Cold, foggy, and often rainy |
 
 ---
 
