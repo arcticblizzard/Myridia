@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Zhara-Mer"
-image: "file-2A0loU8bC6oOj9KcIQrzxjRo"
+image: "/assets/images/zhara-mer.jpg"
 permalink: /locations/zhara-mer/
 region: "Thal-Zora"
-type: "Harbor City"
-coordinates: {latitude: -14.3, longitude: 33.9}
+type: "City"
+coordinates: "9263,4476"
 description: "An ancient city where ruins of old civilizations meet the bustling commerce of a thriving harbor, Zhara-Mer is a place where history and progress intertwine."
 ---
 
@@ -19,7 +19,7 @@ Zhara-Mer is located on the lush, hilly coastline of Thal-Zora, surrounded by ve
 
 | Type             | Population | Economy                    | Climate                     |
 |------------------|------------|----------------------------|-----------------------------|
-| Harbor City      | 80,000     | Trade, Fishing, Antiquities | Warm, humid, coastal         |
+| City      | Medium    | Trade, Fishing, Antiquities | Warm, humid, coastal         |
 
 ---
 
