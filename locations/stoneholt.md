@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Stoneholt"
-image: "file-0gdKLf0wOiVa8GO6jPVsOCYm"
+image: "/assets/images/stoneholt.jpg"
 permalink: /locations/stoneholt/
 region: "Skaldyr"
-type: "Underground Dwarven City"
-coordinates: {}
+type: "City"
+coordinates: "10268,2076"
 description: "Stoneholt, a vast underground city built by the dwarves of Skaldyr. The city is known for its impressive stone architecture, massive arches, and lush rooftop gardens that grow from artificial sunlight."
 ---
 
@@ -19,7 +19,7 @@ Stoneholt lies deep beneath the mountains of Skaldyr, carved into the very bedro
 
 | Type                | Population | Economy             | Climate                |
 |---------------------|------------|---------------------|------------------------|
-| Underground City    | 40,000     | Mining, Engineering, Trade | Cool and controlled by underground systems|
+| City    | Large    | Mining, Engineering, Trade | Cool and controlled by underground systems|
 
 ---
 
