@@ -30,6 +30,7 @@ Zhalrasha is a mystical city located at the mouth of Crystaline Bay, known for i
 | Golden Dome of Thalayin   | A massive structure imbued with magical energy, serving as both a temple and a research center. |
 | Ruins of Old Zhalrasha    | Ruins on the outskirts of the city, a reminder of the desert’s wrath, often explored for treasures. |
 | Crystal Aviary           | A garden where crystal birds nest, maintained by the city’s elders, filled with ancient magic.  |
+| The Pilgrim’s Path | A long, winding road leading to the city, lined with shrines and sanctuaries for weary travelers. |
 
 ---
 
