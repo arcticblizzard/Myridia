@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Rimeharbor"
-image: "file-rioCy4tlVfKagah1DuRZCbT8"
+image: "/assets/images/rimeharbor.jpg"
 permalink: /locations/rimeharbor/
 region: "Skaldyr"
-type: "Coastal City"
-coordinates: {}
+type: "City"
+coordinates: "7736,1712"
 description: "Rimeharbor, a frigid coastal city nestled against snow-covered mountains, is known for its hardy sailors, formidable fortifications, and trade through ice-laden seas."
 ---
 
@@ -19,7 +19,7 @@ Rimeharbor is perched on the edge of a rocky coastline, with towering, snow-capp
 
 | Type         | Population  | Economy             | Climate                   |
 |--------------|-------------|---------------------|----------------------------|
-| Coastal City | 10,000      | Fishing, Trade, Ice Harvesting | Sub-Arctic, Cold Winds, Snow Year-Round |
+| City | Medium     | Fishing, Trade, Ice Harvesting | Sub-Arctic, Cold Winds, Snow Year-Round |
 
 ---
 
