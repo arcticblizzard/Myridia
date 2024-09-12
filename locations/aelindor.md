@@ -1,7 +1,7 @@
 ---
 layout: location
 title: "Aelindor"
-image: "file-nmHMnUIArzuxgTixSrZxwR4J"
+image: "/assets/images/aelindor.jpg"
 permalink: /locations/aelindor/
 region: "Nemedis"
 type: "City"
