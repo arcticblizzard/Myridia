@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Nyrendal"
-image: "275"
+image: "/assets/images/nyrendal.jpg"
 permalink: /locations/nyrendal/
 region: "Tzarnath"
-type: "Mountain City"
-coordinates: {}
+type: "City"
+coordinates: "4588,5640"
 description: "A city carved into the spires of rocky mountains, known for its stone-carving and mining expertise."
 ---
 
@@ -19,7 +19,7 @@ Nyrendal is carved into a series of towering rocky spires in the mountains of Tz
 
 | Type         | Population | Economy             | Climate                  |
 |--------------|------------|---------------------|--------------------------|
-| Mountain City| Medium      | Mining, Stonecarving| Cold, mountainous, misty  |
+| City| Medium      | Mining, Stonecarving| Cold, mountainous, misty  |
 
 ---
 
