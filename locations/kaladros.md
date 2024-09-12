@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Kaladros"
-image: "file-JjntaePyixch5V5W7ln1rS20"
+image: "/assets/images/kaladros.jpg"
 permalink: /locations/kaladros/
 region: "Khorash"
-type: "Mountain City"
-coordinates: {}
+type: "City"
+coordinates: "2332,4460"
 description: "Kaladros, a majestic city carved into the mountains of Khorash, is known for its impressive stone towers and waterfalls that wind through its architecture. This ancient city is a testament to the skill of its builders and is a key location in the region’s history."
 ---
 
@@ -19,7 +19,7 @@ Kaladros is nestled in the rugged mountains of Khorash, with its towering stone 
 
 | Type         | Population       | Economy             | Climate                |
 |--------------|------------------|---------------------|------------------------|
-| Mountain City | 40,000 people    | Mining, Stone Crafting, Trade | Dry, temperate climate with hot summers and mild winters |
+| City | Large    | Mining, Stone Crafting, Trade | Dry, temperate climate with hot summers and mild winters |
 
 ---
 
