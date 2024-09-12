@@ -1,7 +1,7 @@
 ---
 layout: location
 title: "Anshael"
-image: "/assets/images/anshael.jpg
+image: "/assets/images/anshael.jpg"
 permalink: /locations/anshael/
 region: "Caelvorn"
 type: "City"
