@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Stalvorn"
-image: "file-aw4b2CxD7gBY2RlWuzjXl9xX"
+image: "/assets/images/stalvorn.jpg"
 permalink: /locations/stalvorn/
 region: "Skaldyr"
-type: "Mountain Stronghold"
-coordinates: {}
+type: "City"
+coordinates: "9220,2020"
 description: "Stalvorn, a remote mountain stronghold hidden within the icy cliffs of Skaldyr. Known for its towering spire and impenetrable stone walls, the city stands as a beacon of survival and resilience in the harsh north."
 ---
 
@@ -19,7 +19,7 @@ Stalvorn is situated in the high cliffs of the Skaldyr mountains, surrounded by 
 
 | Type                | Population | Economy                   | Climate                |
 |---------------------|------------|---------------------------|------------------------|
-| Mountain Stronghold  | 6,000      | Mining, stonecraft, defense| Harsh arctic climate, frequent snowstorms |
+| City  | Medium     | Mining, stonecraft, defense| Harsh arctic climate, frequent snowstorms |
 
 ---
 
