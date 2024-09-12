@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Khatanar"
-image: "file-N4H9Ur9A6Q5KcmAuYj2tugw4"
+image: "/assets/images/khatanar.jpg"
 permalink: /locations/khatanar/
 region: "Nemedis"
-type: "Coastal Fortress City"
-coordinates: {}
+type: "City"
+coordinates: "7608,6876"
 description: "Khatanar, a coastal fortress city, sits proudly atop the cliffs overlooking the rough seas of Nemedis. Known for its defensive strength and strategic importance, it serves as a gateway between the fertile plains inland and the seas beyond."
 ---
 
@@ -19,7 +19,7 @@ Khatanar is perched on a set of cliffs on the Nemedis coastline, providing stunn
 
 | Type                | Population | Economy              | Climate                   |
 |---------------------|------------|----------------------|---------------------------|
-| Coastal Fortress City | 8,000      | Fishing, trade, and defense | Temperate coastal climate, with cool sea breezes and frequent fog |
+| City | Medium     | Fishing, trade, and defense | Temperate coastal climate, with cool sea breezes and frequent fog |
 
 ---
 
