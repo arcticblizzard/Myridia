@@ -5,7 +5,7 @@ image: "file-vw7YtEX7FAsQGDhcY9dE7ART"
 permalink: /locations/anshael/
 region: "Caelvorn"
 type: "Riverside Trade City"
-coordinates: {latitude: 55.3, longitude: -2.5}
+coordinates: "0,0"
 description: "Anshael is a vibrant riverside city that thrives on commerce and craftsmanship, with a blend of rustic architecture and a lively marketplace."
 ---
 
