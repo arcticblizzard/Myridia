@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Rasha-Nur"
-image: "file-YMWDNmXgSPiihSiPTWi2SIAA"
+image: "/assets/images/rasha-nur.jpg"
 permalink: /locations/rasha-nur/
 region: "Thal-Zora"
-type: "Hidden City"
-coordinates: {latitude: -10.4, longitude: 34.9}
+type: "City"
+coordinates: "10864,5020"
 description: "Shrouded by dense vegetation and towering architecture, Rasha-Nur is a secretive city hidden within the heart of Thal-Zora, known for its shadowed streets and ancient, ivy-covered buildings."
 ---
 
@@ -19,7 +19,7 @@ Rasha-Nur is built within a dense forested region of Thal-Zora, its streets wind
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Hidden City         | 25,000     | Secrecy, Rare Goods, Magic   | Warm, humid, and shaded by dense forests |
+| City         | Large     | Secrecy, Rare Goods, Magic   | Warm, humid, and shaded by dense forests |
 
 ---
 
