@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Seraphiros"
-image: "file-UUe4dNDXRSfsxFJGKXu63mgF"
+image: "/assets/images/seraphiros.jpg"
 permalink: /locations/seraphiros/
 region: "Khorash"
-type: "Walled City"
-coordinates: {}
+type: "City"
+coordinates: "2032,4132"
 description: "Seraphiros is a fortified city in Khorash, known for its tall spires, dark skies, and resilient people who have withstood the harsh environment."
 ---
 
@@ -19,7 +19,7 @@ Seraphiros is a walled city built at the edge of Khorash's arid plains, borderin
 
 | Type         | Population   | Economy                | Climate                |
 |--------------|--------------|------------------------|------------------------|
-| Walled City  | 15,000 people| Trade, crafts, and war supplies | Arid plains, frequent storms  |
+| City  | Large | Trade, crafts, and war supplies | Arid plains, frequent storms  |
 
 ---
 
