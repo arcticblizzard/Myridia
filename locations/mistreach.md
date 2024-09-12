@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Mistreach"
-image: "file-84VdL1yeE5xAeuBWczXwbmiy"
+image: "/assets/images/mistreach.jpg"
 permalink: /locations/mistreach/
 region: "Calamity"
-type: "Fog-Cloaked Port City"
-coordinates: {latitude: 0.8, longitude: -1.4}
+type: "City"
+coordinates: "5440,4976"
 description: "Mistreach is a sprawling port city shrouded in constant mist. Its intricate network of docks and towering buildings rise from the fog, while ships from across the realm dock in its treacherous waters. The city is known for its vibrant trade, shadowy dealings, and the ever-present scent of salt and smoke."
 ---
 
@@ -19,7 +19,7 @@ Mistreach is situated on a series of narrow, winding docks that extend out into 
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Fog-Cloaked Port City | 9,000      | Trade, Smuggling, Fishing     | Damp and foggy, with mild but wet conditions year-round |
+| City | Large      | Trade, Smuggling, Fishing     | Damp and foggy, with mild but wet conditions year-round |
 
 ---
 
