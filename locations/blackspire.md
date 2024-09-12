@@ -1,11 +1,11 @@
 ---
 layout: location
 title: "Blackspire"
-image: "file-Lf7krg6whI9nvfjACXT7VCH4"
+image: "/assets/images/blackspire.jpg"
 permalink: /locations/blackspire/
 region: "Calamity"
-type: "Clifftop Port City"
-coordinates: {latitude: 1.2, longitude: -0.9}
+type: "City"
+coordinates: "5968,4692"
 description: "Perched atop jagged cliffs overlooking the swirling waters of the Calamity, Blackspire is a city defined by its massive black tower, which looms over the harbor. A city built both above and below the cliffs, it serves as a hub for trade, survival, and mystery on the edge of the world's most dangerous waters."
 ---
 
@@ -19,7 +19,7 @@ Blackspire is divided into two primary sections: the lower docks and shantytown,
 
 | Type               | Population | Economy                     | Climate                     |
 |--------------------|------------|-----------------------------|-----------------------------|
-| Clifftop Port City  | 11,000     | Trade, Navigation, Fishing   | Cool, misty, with frequent fog and occasional storms |
+| City  | Large     | Trade, Navigation, Fishing   | Cool, misty, with frequent fog and occasional storms |
 
 ---
 
