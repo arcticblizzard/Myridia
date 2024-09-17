@@ -1,5 +1,5 @@
 ---
-layout: city
+layout: location
 title: Slateport
 image: /images/slateport.jpg
 permalink: /locations/slateport
