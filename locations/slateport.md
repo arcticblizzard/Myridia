@@ -1,8 +1,8 @@
 ---
 layout: city
 title: Slateport
-image: /images/slateport.png
-permalink: /cities/slateport
+image: /images/slateport.jpg
+permalink: /locations/slateport
 region: Khorash
 type: City
 coordinates: "2000,6556"
