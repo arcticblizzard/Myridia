@@ -15,7 +15,9 @@ Once a bustling hub of trade, Slateport lies on the Southern Isle, a once-thrivi
 
 The most prominent feature of Slateport is its keep, which was originally built into a massive granite hill on the outskirts of the city. This fortress has since been repurposed as an administrative center, overseeing the meager governance of the island's dwindling population. The once-proud city now clings to memories of its glory days, with few visitors and fewer prospects for revitalization.
 
----
+### Geography
+
+A relatively small island located in the sub-tropical south-west, the Island is dominated by large hills and seaward cliffs. Thanks to some of the arable land, a small population has been able to continue its existence long past the city's heyday.
 
 ### Statistics
 
