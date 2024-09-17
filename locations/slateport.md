@@ -5,7 +5,7 @@ image: /images/slateport.jpg
 permalink: /locations/slateport
 region: Khorash
 type: City
-coordinates: "1850,6400"
+coordinates: "1750,6400"
 description: "Once a bustling hub of trade, Slateport lies on the Southern Isle, a once-thriving maritime city now reduced to a remote and neglected backwater. Known for its abundant slate resources, the city's quarries were the backbone of its economy, fueling lucrative exports across Myridia. However, as trade routes shifted and the slate demand dwindled, Slateport fell into decline. Today, the city sees few ships docking at its run-down port, and the crumbling infrastructure reflects its waning importance."
 ---
 
@@ -47,6 +47,7 @@ A relatively small island located in the sub-tropical south-west, the Island is 
 |------------------|------------------------------|-----------------------------------------------------------|
 | Kaelan Voss      | Governor                      | A tired but determined administrator, he manages the keep and the remnants of Slateport's affairs. |
 | Mira Thorn       | Former Quarry Foreman         | Once a respected figure in the quarries, Mira now ekes out a living doing odd jobs in town, lamenting the collapse of Slateport’s industry. |
+| Jeb Gorash | Former Quarry Surveyor | Once the quarry's head surveyor, Jeb has retired to a modest life outside the town of Slateport. |
 | Captain Horik Grint | Dockmaster                   | A grizzled old sailor who stays out of duty rather than profit, Horik oversees the near-empty docks. |
 
 ---
