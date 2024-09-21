@@ -66,4 +66,6 @@ Slateport was founded centuries ago when rich deposits of slate were discovered 
 
 ### Assets
 
-![City of Slateport](/Myridia/assets/maps/city_of_slateport.png)
+<a href="/Myridia/assets/maps/city_of_slateport.png">
+  <img src="/Myridia/assets/maps/city_of_slateport.png" alt="City of Slateport" style="max-width:900px; width:100%; height:auto;">
+</a>
