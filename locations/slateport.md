@@ -1,7 +1,7 @@
 ---
 layout: location
 title: Slateport
-image: /images/slateport.jpg
+image: 
 permalink: /locations/slateport
 region: Khorash
 type: City
@@ -63,3 +63,7 @@ Slateport was founded centuries ago when rich deposits of slate were discovered 
 - **Rise of the Slate Trade (300 years ago)**: Slateport experienced rapid growth due to its rich slate quarries, transforming the island into a critical trade hub.
 - **Decline of Slateport (100 years ago)**: As demand for slate diminished and newer trade routes emerged, Slateport began to fade into obscurity.
 - **Quarry Closure (50 years ago)**: The last of Slateport’s quarries was closed, cementing the city’s status as a backwater.
+
+### Assets
+
+![City of Slateport](/assets/maps/city_of_slateport.png)
