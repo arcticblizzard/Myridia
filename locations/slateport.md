@@ -9,10 +9,6 @@ coordinates: "1650,6400"
 description: "Once a bustling hub of trade, Slateport lies on the Southern Isle, a once-thriving maritime city now reduced to a remote and neglected backwater. Known for its abundant slate resources, the city's quarries were the backbone of its economy, fueling lucrative exports across Myridia. However, as trade routes shifted and the slate demand dwindled, Slateport fell into decline. Today, the city sees few ships docking at its run-down port, and the crumbling infrastructure reflects its waning importance."
 ---
 
-### Description
-
-Once a bustling hub of trade, Slateport lies on the Southern Isle, a once-thriving maritime city now reduced to a remote and neglected backwater. Known for its abundant slate resources, the city's quarries were the backbone of its economy, fueling lucrative exports across Myridia. However, as trade routes shifted and the slate demand dwindled, Slateport fell into decline. Today, the city sees few ships docking at its run-down port, and the crumbling infrastructure reflects its waning importance.
-
 The most prominent feature of Slateport is its keep, which was originally built into a massive granite hill on the outskirts of the city. This fortress has since been repurposed as an administrative center, overseeing the meager governance of the island's dwindling population. The once-proud city now clings to memories of its glory days, with few visitors and fewer prospects for revitalization.
 
 ### Geography
