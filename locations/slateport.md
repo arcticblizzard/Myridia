@@ -66,4 +66,4 @@ Slateport was founded centuries ago when rich deposits of slate were discovered 
 
 ### Assets
 
-![City of Slateport](/assets/maps/city_of_slateport.png)
+![City of Slateport](assets/maps/city_of_slateport.png)
