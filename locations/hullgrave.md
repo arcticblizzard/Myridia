@@ -5,7 +5,7 @@ image: "/assets/images/hullgrave.jpg"
 permalink: /locations/hullgrave/
 region: "Calamity"
 type: "City"
-coordinates: "3670,4175"
+coordinates: "3610,4170"
 description: "Hullgrave is a city built entirely from the hulks of ancient ships, remnants of vessels claimed by the powerful whirlpool at the center of the world. Its architecture is a patchwork of timber, iron, and tattered sails, giving it an eerie yet impressive appearance. This dangerous and lawless settlement sits at the edge of the Calamity."
 ---
 
