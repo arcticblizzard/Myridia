@@ -5,7 +5,7 @@ image: "/assets/images/mistreach.jpg"
 permalink: /locations/mistreach/
 region: "Calamity"
 type: "City"
-coordinates: "5440,4976"
+coordinates: "5160,4340"
 description: "Mistreach is a sprawling port city shrouded in constant mist. Its intricate network of docks and towering buildings rise from the fog, while ships from across the realm dock in its treacherous waters. The city is known for its vibrant trade, shadowy dealings, and the ever-present scent of salt and smoke."
 ---
 
