@@ -35,6 +35,14 @@ h2 {
     margin-top: 40px;
 }
 
+/* Horizontal lines (all) */
+hr {
+    border: 0;
+    height: 2px;
+    background-color: #d2b48c; /* Gold-ish color */
+    margin: 20px 0;
+}
+
 /* Text sections */
 p {
     line-height: 1.6;
