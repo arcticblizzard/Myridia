@@ -35,12 +35,12 @@ h2 {
     margin-top: 40px;
 }
 
-/* Horizontal lines (all) */
 hr {
-    border: 0;
-    height: 2px;
-    background-color: #d2b48c; /* Gold-ish color */
+    border: none;
+    border-top: 2px solid #d2b48c; /* Gold-ish color */
+    height: 0;
     margin: 20px 0;
+    background: none; /* In case some reset is applying a background */
 }
 
 /* Text sections */
